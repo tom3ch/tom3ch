@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tom3ch
 - 👀 I’m interested in Data Analysis, AI, NLP and ML
-- 🌱 I’m currently learning AWS
+- 🌱 I’m currently learning AWS, CI/CD
 - 💞️ I’m looking to collaborate on Python and C++ based projects
 - 📫 How to reach me ...
